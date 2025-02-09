@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DevBackStudyApplication {
 
 	public static void main(String[] args) {
+		System.out.println("되냐??");
 		SpringApplication.run(DevBackStudyApplication.class, args);
 	}
 
